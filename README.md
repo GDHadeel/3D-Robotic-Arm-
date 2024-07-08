@@ -32,4 +32,4 @@ The following image illustrates the design and configuration of the robot's arm 
 
 ## Acknowledgements
 
-- [Mention any acknowledgements for specific resources or inspirations]
+[Mention any acknowledgements for specific resources or inspirations]
