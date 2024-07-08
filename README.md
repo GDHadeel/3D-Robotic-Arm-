@@ -10,7 +10,7 @@ This repository contains the design and implementation of a three-dimensional ro
 
 - **Degrees of Freedom**: The robotic arm is equipped with 5 servo motors, providing precise control over its movements.
   
-- **Design Tools**: The arm's design was created using Tinkercad, an online 3D modeling tool, ensuring ease of prototyping and visualization.
+- **Design Tools**: The arm's design was created using [Tinkercad](https://www.tinkercad.com/dashboard) , an online 3D modeling tool, ensuring ease of prototyping and visualization.
 
 ## Design and Implementation
 
