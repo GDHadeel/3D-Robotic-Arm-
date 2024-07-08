@@ -21,9 +21,17 @@ This repository contains the design and implementation of a three-dimensional ro
 ## Illustrations
 The following image illustrates the design and configuration of the robot's arm joints with the 5 servo motors:
 
-![image](https://github.com/GDHadeel/3D-Robotic-Arm-/assets/126657301/314684f0-6f53-4b13-a5f8-ab480c003c7c = 250x250)
+![image](https://github.com/GDHadeel/3D-Robotic-Arm-/assets/126657301/314684f0-6f53-4b13-a5f8-ab480c003c7c)
 
 ![image](https://github.com/GDHadeel/3D-Robotic-Arm-/assets/126657301/d107861f-f310-42eb-a917-46fc8b4e2ab4)
+
+<p align="center">
+  <img src="https://github.com/GDHadeel/3D-Robotic-Arm-/assets/126657301/314684f0-6f53-4b13-a5f8-ab480c003c7c" alt="Robotic Arm Image 1" width="400" height="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/GDHadeel/3D-Robotic-Arm-/assets/126657301/d107861f-f310-42eb-a917-46fc8b4e2ab4" alt="Robotic Arm Image 2" width="400" height="300">
+</p>
 
 
 ## Acknowledgements
